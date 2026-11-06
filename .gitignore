@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.vscode/
+*.mkv
+*.avi
+*.mp4
+*.log
+*_cones/
+out/
+syn/
+syn_out/
